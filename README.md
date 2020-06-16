@@ -1,1 +1,1 @@
-# FAIRsFAIRMetrics for assessing the FAIRness of research data objects
+# FAIRsFAIR Metrics for assessing the FAIRness of research data objects
